@@ -1,3 +1,28 @@
 .header {
     background-color: #635854;
 }
+
+.navbar {
+    max-width: 1280px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar__menu {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+.navbar__item {
+    margin: 0 40px 0 40px;
+}
+
+.navbar__link {
+    text-decoration: none;
+    color: #fff;
+}
