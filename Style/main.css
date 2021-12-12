@@ -47,6 +47,7 @@ body {
     margin-bottom: 4px;
     font-size: 14px;
     line-height: 16px;
+}
 
 .navbar__phone {
     font-weight: bold;
@@ -54,4 +55,10 @@ body {
     line-height: 20px;
     text-decoration: none;
     color: #fff;
+}
+
+.main {
+    max-width: 1280px;
+    margin: auto;
+    padding-top: 54px;
 }
